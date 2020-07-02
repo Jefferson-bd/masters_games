@@ -1,0 +1,117 @@
+@charset "UTF-8";
+.bg-index{
+    background: url("../imagens/index_adm.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-game{
+    background: url("../imagens/bgimage.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-console {
+	background: url("../imagens/bgconsole.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+
+
+
+.bg-genero{
+    background: url("../imagens/bg-genero.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-download{
+    background: url("../imagens/bg-download.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.bg-usuario{
+    background: url("../imagens/bguser.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+
+/* game */
+.corform{
+    background-color: rgba(127, 191, 255, 0.5);
+    color: white;
+}
+
+.barratxt{
+    background-color: rgba(0, 186, 255, 0.8);
+    color: white;
+}
+/* game */
+
+
+/* Console */
+.corformconsole{
+    background-color: rgba(0, 255, 0, 0.15);
+    color: white;
+}
+
+.barratxtconsole{
+    background-color: rgba(0, 190, 51, 0.7);
+    color: white;
+}
+/* Console */
+
+.blue{
+    background-color: rgba(0, 29, 255, 0.15);
+    color: white;
+}
+
+/* Downloads */
+.corformdownload{
+    background-color: rgba(255, 0, 0, 0.15);
+    color: white;
+}
+
+.barratxtdownload{
+    background-color: rgba(190, 0, 0, 0.7);
+    color: white;
+}
+
+/* Downloads */
+
+
+/* Genero */
+.corformgenero{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.barratxtgenero{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+}
+
+/* Genero */
+
+/* Usuário */
+.corformuser{
+    background-color: rgba(128, 0, 255, 0.4);
+    color: white;
+}
+
+.barratxtuser{
+    background-color: rgba(128, 0, 255, 0.7);
+    color: white;
+}
+.transpan{
+    background-color: rgba(255, 255, 255, 0.54);
+}
+
+/* Usuário */
+
+
+
+
