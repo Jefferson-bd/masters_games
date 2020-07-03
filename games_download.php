@@ -32,13 +32,13 @@ $totalRows  =   ($lista)->num_rows;
         <!-- Abre a Estrutura de Repetição -->
         <?php do{ ?>
         <!-- Abre thumbnail/card -->
-        <div class="col-sm-6 col-md-4">
+        <div class="col-sm-12 col-md-6 col-lg-4">
             <!-- Dimensionamento -->
             <div class="thumbnail">
                 <a href="game_detalhe.php?id_download=<?php echo $row['id_download']; ?>">
-                    <img src="imagens/<?php echo $row['imagem_download']; ?>" alt="" class="img-thumbnail img-responsive img-rounded" style="height: 20em; width: 70%;">
+                    <img src="imagens/<?php echo $row['imagem_download']; ?>" alt="" class="img-thumbnail img-responsive rounded mx-auto d-block" style="height: 19em; width: 70%;">
                 </a>
-                <div class="caption text-right">
+                <div class="caption text-left">
                     <h3 class="text-danger">
                         <strong><?php echo $row['nome_download']; ?></strong>
                     </h3>

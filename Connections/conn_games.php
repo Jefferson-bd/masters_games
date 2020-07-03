@@ -3,7 +3,7 @@ $hostname_conn = "localhost";
 $database_conn = "iwane047_masters_games";
 $username_conn = "iwane047_ti09";
 $password_conn = "Senacti09B&st";
-$charset_conn = "utf-8";
+$charset_conn = "utf8";
 
 $conn_games = new mysqli($hostname_conn, $username_conn, $password_conn, $database_conn);
 

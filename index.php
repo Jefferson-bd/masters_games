@@ -11,6 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/meu_estilo_adm.css">
+    <script src="https://kit.fontawesome.com/72e7ff902d.js" crossorigin="anonymous"></script>
 </head>
 
 <body class="container-fluid">

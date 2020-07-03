@@ -93,6 +93,16 @@
     background-color: rgba(0, 0, 0, 0.7);
     color: white;
 }
+.corforminvasor{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+}
+
+.corforminvasor2{
+    background-color: rgba(8, 62, 1, 0.36);
+    color: white;
+}
+
 
 /* Genero */
 
@@ -112,6 +122,24 @@
 
 /* Usuário */
 
+.bg-inv{
+    background: url("../imagens/incorrect.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
 
 
+.bg-login{
+     background: url("../imagens/bg-login.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.nav-dark {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.colornav{
+    color: #0027ff;
+}
 
